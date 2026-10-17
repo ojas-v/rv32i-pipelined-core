@@ -1,0 +1,25 @@
+
+# Vivado project and generated files
+build/
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.pb
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
